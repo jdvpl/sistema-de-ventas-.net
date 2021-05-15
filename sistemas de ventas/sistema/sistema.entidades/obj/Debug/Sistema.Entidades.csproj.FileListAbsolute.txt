@@ -1,0 +1,6 @@
+D:\cursos\C#\sistemas de ventas\sistema\sistema.entidades\bin\Debug\sistema.entidades.dll
+D:\cursos\C#\sistemas de ventas\sistema\sistema.entidades\bin\Debug\sistema.entidades.pdb
+D:\cursos\C#\sistemas de ventas\sistema\sistema.entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+D:\cursos\C#\sistemas de ventas\sistema\sistema.entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+D:\cursos\C#\sistemas de ventas\sistema\sistema.entidades\obj\Debug\sistema.entidades.dll
+D:\cursos\C#\sistemas de ventas\sistema\sistema.entidades\obj\Debug\sistema.entidades.pdb

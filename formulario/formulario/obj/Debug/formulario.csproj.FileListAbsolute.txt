@@ -1,0 +1,9 @@
+D:\C#\formulario\formulario\bin\Debug\formulario.exe.config
+D:\C#\formulario\formulario\bin\Debug\formulario.exe
+D:\C#\formulario\formulario\bin\Debug\formulario.pdb
+D:\C#\formulario\formulario\obj\Debug\formulario.csprojAssemblyReference.cache
+D:\C#\formulario\formulario\obj\Debug\formulario.Form1.resources
+D:\C#\formulario\formulario\obj\Debug\formulario.Properties.Resources.resources
+D:\C#\formulario\formulario\obj\Debug\formulario.csproj.GenerateResource.cache
+D:\C#\formulario\formulario\obj\Debug\formulario.exe
+D:\C#\formulario\formulario\obj\Debug\formulario.pdb

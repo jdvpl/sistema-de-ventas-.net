@@ -1,0 +1,11 @@
+D:\C#\lol\lol\bin\Debug\netcoreapp3.1\lol.exe
+D:\C#\lol\lol\bin\Debug\netcoreapp3.1\lol.deps.json
+D:\C#\lol\lol\bin\Debug\netcoreapp3.1\lol.runtimeconfig.json
+D:\C#\lol\lol\bin\Debug\netcoreapp3.1\lol.runtimeconfig.dev.json
+D:\C#\lol\lol\bin\Debug\netcoreapp3.1\lol.dll
+D:\C#\lol\lol\bin\Debug\netcoreapp3.1\lol.pdb
+D:\C#\lol\lol\obj\Debug\netcoreapp3.1\lol.AssemblyInfoInputs.cache
+D:\C#\lol\lol\obj\Debug\netcoreapp3.1\lol.AssemblyInfo.cs
+D:\C#\lol\lol\obj\Debug\netcoreapp3.1\lol.dll
+D:\C#\lol\lol\obj\Debug\netcoreapp3.1\lol.pdb
+D:\C#\lol\lol\obj\Debug\netcoreapp3.1\lol.csprojAssemblyReference.cache

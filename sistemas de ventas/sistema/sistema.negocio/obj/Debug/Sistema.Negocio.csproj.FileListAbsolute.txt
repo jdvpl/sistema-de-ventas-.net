@@ -1,0 +1,11 @@
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\bin\Debug\sistema.negocio.dll
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\bin\Debug\sistema.negocio.pdb
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\bin\Debug\sistema.datos.dll
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\bin\Debug\sistema.entidades.dll
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\bin\Debug\sistema.datos.pdb
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\bin\Debug\sistema.entidades.pdb
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\obj\Debug\Sistema.Negocio.csprojAssemblyReference.cache
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\obj\Debug\sistema.negocio.dll
+D:\cursos\C#\sistemas de ventas\sistema\sistema.negocio\obj\Debug\sistema.negocio.pdb
